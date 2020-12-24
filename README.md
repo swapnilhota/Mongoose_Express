@@ -1,2 +1,2 @@
 # Mongoose_Express
-Using Mongoose and Express together
+Learning to use Mongoose and Express together
